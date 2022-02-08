@@ -1,0 +1,44 @@
+.mat-toolbar
+{
+    background: hsl(155, 56%, 35%);
+    color: #fff;
+}
+
+.btn-default
+{
+    background: hsl(155, 56%, 35%);
+    color: #fff;
+}
+
+input
+{
+    margin-top: 6px;
+    margin-left: 15px;
+}
+
+label,button
+{
+    margin-top: 1cm;
+}
+
+button
+{
+    margin-left: 17px;
+}
+
+textarea
+{
+    resize: none;
+    margin-top: 6px;
+    margin-left: 18px;
+}
+
+::placeholder
+{
+    font-size: 13px;
+}
+
+span
+{
+    margin-left: 19px;
+}
